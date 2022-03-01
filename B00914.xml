@@ -1,0 +1,660 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rhann o Psalmæ Dauyd, a phrophwydti [sic] eraill, gweddi i kynghanedhu [sic] mewn [--].</title>
+            <author>Myddelton, William, 1556?-1621.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1595</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00914</idno>
+            <idno type="STC">STC 2742.5</idno>
+            <idno type="STC">ESTC S90846</idno>
+            <idno type="EEBO-CITATION">56572808</idno>
+            <idno type="OCLC">ocm 56572808</idno>
+            <idno type="VID">180915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180915)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2144:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rhann o Psalmæ Dauyd, a phrophwydti [sic] eraill, gweddi i kynghanedhu [sic] mewn [--].</title>
+                  <author>Myddelton, William, 1556?-1621.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Llundain :</pubPlace>
+                  <date>ca. 1595]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by STC (2nd ed.).</note>
+                  <note>Imperfect: fragment; part of quire A only, bound and filmed out of order, ending with A₃.</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms --  Paraphrases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180915:1"/>
+            <pb facs="tcp:180915:1"/>
+            <p>RHANN O PSALMÆ Dauyd, a Phrophwy<g ref="char:EOLhyphen"/>ti <hi>eraill, gwedi i kynghauedhv mewn</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="metrical_Psalter__selection">
+            <pb facs="tcp:180915:2"/>
+            <pb facs="tcp:180915:2"/>
+            <head>Pſalmae Dafydh.</head>
+            <div n="1" type="Psalm">
+               <head>Y Pſalm. I. <hi>Kywydh de<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>air hirion.</hi>
+               </head>
+               <l>GWnnfyd oe febyd gwinfaeth,</l>
+               <l>Gwirion don ir gwr nid aeth</l>
+               <l>Ar ol kyngor lwck angall,</l>
+               <l>y drwg a roe i fryd ar wall</l>
+               <l>Ni ſaif yn ffordh briffordh brys,</l>
+               <l>Bechaduriaid baich dyrys</l>
+               <l>Nag ar gadair gyfair gawdh,</l>
+               <l>Gwatorwyr a gydtariawdh.</l>
+               <l>Os kyfraith dhuw 'n faith dhawnfyd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>I dhidanwch dha dhevnydh.</l>
+               <l>Ae myfyrio mwy fowredh,</l>
+               <l>ðydh a nos yn dhidhan wedh.</l>
+               <l>Bydh ail i bren a blennir,</l>
+               <l>ynglann afon dirion dir.</l>
+               <l>A dhwg ffrwyth dhigyffro hawl,</l>
+               <l>Is irwydh yn amſerawl.</l>
+               <l>Ag ar y brig deg ir brenn,</l>
+               <l>Ni dhielwa vn dheilienn.</l>
+               <l>
+                  <pb n="8" facs="tcp:180915:3"/>Ag oll a wnel gwell ha 'nwir,</l>
+               <l>ae law ðyn a lwy ðainnir.</l>
+               <l>Anvwiol fraint dhynol fry,</l>
+               <l>O fall-haint ni <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ið felly,</l>
+               <l>Hwnn o fab hoewa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a fyð,</l>
+               <l>fal manvs ar fol mynyð.</l>
+               <l>Oe flaen y gwynt flina gwaith,</l>
+               <l>chwith amod ae chwyth ymaith.</l>
+               <l>Ni welir a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vwiolion</l>
+               <l>Ofer yn hir ir farn honn.</l>
+               <l>A gwnn na ſaif gwann o ſaid,</l>
+               <l>detrawr y pechad uriaid.</l>
+               <l>Drwy fawl oll ir dyrfa lawn</l>
+               <l>O wyr k<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fvs rai kyfiawn.</l>
+               <l>Dvw a cowyn Forð dya da:</l>
+               <l>Dinyſtrir en wir y na.</l>
+            </div>
+            <div n="2" type="Psalm">
+               <head>Yr ail Pſalm. <hi>Cywyd' devair hirion hefyd.</hi>
+               </head>
+               <l>PA ffromi brochi bar oeð</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igion v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lais geuedloed?</l>
+               <l>Poblo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ð ar gyhoeð bob gant</l>
+               <l>ofereð a fyfyriant.</l>
+               <l>Brenhinwei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch ae barn hynod</l>
+               <l>yn erbyn Dow gloewðuw glod,</l>
+               <l>Ag yn erbyn gwyn oerbwyll</l>
+               <l>
+                  <pb n="9" facs="tcp:180915:3"/>I Griſt ef a gwerſi twyll.</l>
+               <l>Torrwn meðant kyn teirawr</l>
+               <l>I rhwymav ae maglav mawr.</l>
+               <l>Y gwr o nef gowrain ior</l>
+               <l>a gai etto yw gwatwor.</l>
+               <l>Yno vywad yn dewin</l>
+               <l>ban ðigid y bay lid blin:</l>
+               <l>Y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i angerð vni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wngof</l>
+               <l>yr ofnant kiliant oe kof.</l>
+               <l>Irais ef teg yw'r araith</l>
+               <l>frenin Seion dirio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> daith.</l>
+               <l>Traethaf a bryſiaf heb rvs</l>
+               <l>ys-da ytcoeð dy ſtatus:</l>
+               <l>Dwedaiſt fy vnduw ydwyd</l>
+               <l>ymy o barch fy mab wyd.</l>
+               <l>Heðyw y mab hawð om ais</l>
+               <l>gain odli ith genedlais.</l>
+               <l>O gof vniawn gofynni</l>
+               <l>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yðfyd hwnt rhoðaf yti,</l>
+               <l>Y kenetloeð gy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oeð gan</l>
+               <l>ytifeðiaeth yt fyðant:</l>
+               <l>Ag eithafion gwchion gwar</l>
+               <l>mawr oveð mor a daear.</l>
+               <l>Dy wyalen lle delyd</l>
+               <l>dwrn gwyllt ae darnia hwy i gyd:</l>
+               <l>Fal padell o gridhell bronn,</l>
+               <l>a friweſid yn friwſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on.</l>
+               <l>Pob bar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wr trwyn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r trin</l>
+               <l>
+                  <pb n="10" facs="tcp:180915:4"/>Pob barmniaid pob brennin</l>
+               <l>Dyſgwch eiriab dewiſgall,</l>
+               <l>Dyſgwch i gael dyſg wych gall:</l>
+               <l>Gwſnaethwch gwelwch ych gwatth,</l>
+               <l>Adholwch wirdhvw eilwaith.</l>
+               <l>Drwy ofn a ſaif drefnv ſerch,</l>
+               <l>Ag arſwyd o gorwirſerch,</l>
+               <l>Kvſan ir mab arab yw,</l>
+               <l>I lidio perigl ydyw.</l>
+               <l>A lladh a wnaiff llaw Dhuw 'n wir,</l>
+               <l>Os digia ni oſtegir.</l>
+               <l>Gwyn i fyd nid gwann i foes,</l>
+               <l>I bob vn i bob ennioes:</l>
+               <l>A rydh i oglyd ae rann,</l>
+               <l>yn faith ar Dhuw <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ef weithian.</l>
+            </div>
+            <div n="3" type="Psalm">
+               <head>Y drydeth Pſalm. <hi>Englyn vnodl vnion.</hi>
+               </head>
+               <l>GElynion dymon ſy ymdanv ar gais,</l>
+               <l>I geiſio fy maglv:</l>
+               <l>Gwn fod nifer llawer llv,</l>
+               <l>Amgolchynt im amgylchv.</l>
+               <l>Drwg yw ton dynion dewiniaeth dadwrdh,</l>
+               <l>A doedyd yn helaeth:</l>
+               <l>Dvw ni ridh er dawn yr aeth,</l>
+               <l>Deirawr ym iechydwriaeth,</l>
+               <l>
+                  <pb n="11" facs="tcp:180915:4"/>Wyd geidwad godiad Duw gwedi im penn,</l>
+               <l>rhag poen im anghylchi:</l>
+               <l>Wyd fy mwcled mewn kledi,</l>
+               <l>Ion teg am gogoniant i</l>
+               <l>Gelwais llef oer ais lleferydh wirnych,</l>
+               <l>Arglwydh arnad bevnydh:</l>
+               <l>Gwrandeiwaiſt rhodhaiſt fi yn rhydh,</l>
+               <l>Fenaid oth ſantaidh fynydh.</l>
+               <l>Gorwedhais kyſgais fo 'm kad yn dhifai,</l>
+               <l>yn dhiofal fwriad:</l>
+               <l>Yno wedi deffro Dad:</l>
+               <l>Im kedwi Duw im kodiad,</l>
+               <l>Nid ofnaf Dvw <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>af da nod oferbwyll,</l>
+               <l>ſy yn fy erbyn yn dyfod:</l>
+               <l>Er i fyrdh o filwyr fod,</l>
+               <l>yn y maes yn ymoſod.</l>
+               <l>Raid tad wyt geidwad yt godi vchod.</l>
+               <l>Am achvb rhag cledi,</l>
+               <l>Torr i dannedh ryfedh ri,</l>
+               <l>Kernodia i kernav wedi.</l>
+               <l>Iechyd dawn hefyd wyd Dvw nefoedh pvr,</l>
+               <l>vchlaw pawb or bobloedh,</l>
+               <l>Ar ath gar vwch <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aeardedh,</l>
+               <l>fal gwlith dy fendith dwf oedh.</l>
+            </div>
+            <div n="4" type="Psalm">
+               <head>Y bedwaredh Pſalm. <hi>Cywyd' devair hirion.</hi>
+               </head>
+               <l>
+                  <pb n="12" facs="tcp:180915:5"/>CLyw fi naf koelia fy ner:</l>
+               <l>cof fendith am kyfiownder:</l>
+               <l>Gollyngaiſt fi gweichiaſt ged,</l>
+               <l>O gaeth awyð gaethiwed.</l>
+               <l>Moes ras am vrðas y mi</l>
+               <l>yngwyð a gwrando 'ngweði.</l>
+               <l>Clowch, feibion dynion dinerth</l>
+               <l>Pa hyd o aflwyð ſwyð ſerth</l>
+               <l>Y gogenir gogonian:</l>
+               <l>Ich plith kywtlyð ich plant:</l>
+               <l>Drwy garv mewn drwg weryd</l>
+               <l>O goegeð bal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h gwageð byd</l>
+               <l>A cheiſ<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> heb <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>gelwyð ſerth gywily<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</l>
+               <l>Gwybyðwch nodwch yn <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</l>
+               <l>yn ða ðoeth i ðwy d<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ol:</l>
+               <l>Dynion a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar daeoni</l>
+               <l>da ir rhain a ry<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w rhi.</l>
+               <l>Eglyw oe ras gwaenor wyf</l>
+               <l>O goel yr awr y galwyf:</l>
+               <l>Na phechwch drwy ſerthhwch ſo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>ackw a holwch ych kalon.</l>
+               <l>Yn ych gwely felly fyð</l>
+               <l>boð wych lawn bydhw ch lonyð.</l>
+               <l>Offrymwch aberth perthyn</l>
+               <l>im ner kyfiownder a fynn,</l>
+               <l>A rhowch ych goglyd yn rhwyð</l>
+               <l>O wirglai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ar yr arglwyð.</l>
+               <l>
+                  <pb n="13" facs="tcp:180915:5"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>awer o wyr ir lle'r ant</l>
+               <l>O ð<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wdwrð mawr a ðwedant,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yw'r neb a bair y ni,</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ag weled daeoni.</l>
+               <l>D<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cha lewych dyrch lawen</l>
+               <l>Hynod weð yni dy wen.</l>
+               <l>Roiſt im kalon ffynnon ffyð</l>
+               <l>I llonaid or llawenyð.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> na<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> amſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </l>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </div>
+            <div n="5" type="Psalm">
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <l>
+                  <pb n="14" facs="tcp:180915:6"/>A gwedh awen gwediaf,</l>
+               <l>Y borab gorav a garaf vndvw,</l>
+               <l>A wyr wrando arnaf.</l>
+               <l>A Dvw 'n wir ſiarað a wnaf,</l>
+               <l>y borav golab galwaf.</l>
+               <l>Nid ydwyd gwelwyd geli awych iownwaith.</l>
+               <l>chwannog i dhiriedi:</l>
+               <l>ni thrig gidag an a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hri:</l>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <l>
+                  <pb n="15" facs="tcp:180915:6"/>Bryntion i kalon y kair.</l>
+               <l>I kegav geiriav garwedh o gyrrith,</l>
+               <l>fal egorred hen-fedh:</l>
+               <l>Ae tafod mal tyfiad medh,</l>
+               <l>O ffol edryd a ffladredh.</l>
+               <l>Raid geli ytti gwnn etto yn llwyr,</l>
+               <l>I lladh ae dinyſtrio:</l>
+               <l>Gad yw kynghor drvdior or</l>
+               <l>yn i ſerthed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>.</l>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </div>
+         </div>
+         <div type="verse_symbols">
+            <div type="creed">
+               <pb facs="tcp:180915:7"/>
+               <head>Y Fyd' Gatholic.</head>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> chafoð hefy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> gwynn y myd,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hylaw heð</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> duw 'n eiſteð.</l>
+               <l>
+                  <gap reason="illegible" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erth daw i farnv:</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> er mawr-hav byd</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ar meirw hefyd.</l>
+               <l>
+                  <gap reason="illegible" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </div>
+            <div type="ten_commandments">
+               <pb facs="tcp:180915:7"/>
+               <head>Y dengair dedhf</head>
+               <l>DVW v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>had a ðywod ð<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ðf.</l>
+               <l>A gloew ir ſais eglvr deðf.</l>
+               <l>Na f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ð yt Dhvw gloewðvw gl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Hyaod ond fi fy hv<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an,</l>
+               <l>Na vna lvn e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvn oerwelw,</l>
+               <l>Kerfiedig gwrðedig ðelw</l>
+               <l>Na chymer kam arfer min</l>
+               <l>Yn ofer e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew nef frenin.</l>
+               <l>A ſanteiðia mwya mawl</l>
+               <l>Y Saboth yn wrſibiawl.</l>
+               <l>Gwna ith dad ðygiad ðigam,</l>
+               <l>Aur hydeð fowreð ath fam.</l>
+               <l>Ni lwyð yn wir na lað neb</l>
+               <l>Nid iawn na wna odineb.</l>
+               <l>Na ledra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a bryn ta bri</l>
+               <l>A geddyſt na fyð gwedy.</l>
+               <l>Na chwenych geinwych gynnes,</l>
+               <l>Wraig dy gymyd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g o wres:</l>
+               <l>Nae was a raf dihafarch,</l>
+               <l>Na dwyn i forwyn nae farch.</l>
+            </div>
+            <div type="Pater_Noster">
+               <pb facs="tcp:180915:8"/>
+               <head>Gwedhi yr Arglwydh</head>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>N Tad vchelradh adhef,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n tri 'n vn hwan wyt ir Nef,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y enw ini Dw an ner,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>wys hynt oedhyd ſanteidhier.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wyllys gwedhys gwar.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hvw ar y dhaear.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae dyfal ym oedh,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>naf yn y Nefoedh.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ni Dvw mae 'n dwrn da,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> bvr hedhyw 'n bara.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adhav rif digrif don,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>wyd yn dyledion:</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>'n madhav gorav gwyr,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in dyledwyr.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>glwydh ag afl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uydh gwnn.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> i dentatiwn,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ared an arbed ni,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> gynnal rhac drigioni.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>av gorav gwerth,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>nas a diweirnerth,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>iant moliant mawl,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> gowydhay 'n dragwydhawl</l>
+            </div>
+            <trailer>Terfyn.</trailer>
+            <pb facs="tcp:180915:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
